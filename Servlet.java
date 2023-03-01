@@ -10,4 +10,5 @@ import javax.servlet.http.HttpServletResponse;
 @WebServlet(name = "CalculatorServlet",urlPatterns = {"/CalculatorServlet"})
 public class CalculatorServlet extends HttpServlet{
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
+    
 }
